@@ -3,7 +3,7 @@ Machine learning project for predicting brain tumor survival outcomes
 # Brain Tumor Survival Prediction using Machine Learning
 
 ## Overview
-This project applies machine learning techniques to predict the survival outcomes of brain tumor patients using clinical and demographic data. The goal is to assist in understanding patterns that influence patient survival and support data-driven healthcare decisions. This project strengthened my interest in applying data science techniques to healthcare problems.
+This project applies machine learning techniques to predict the survival outcomes of brain tumor patients using clinical and demographic data. The goal is to assist in understanding patterns that influence patient survival and support data driven healthcare decisions. This project strengthened my interest in applying data science techniques to healthcare problems.
 
 ---
 
@@ -77,7 +77,7 @@ My contributions include:
 
 ---
 
-This project reflects my growing interest in applying machine learning to healthcare challenges and real-world data problems
+This project reflects my growing interest in applying machine learning to healthcare challenges and real world data problems
 
 ---
 
