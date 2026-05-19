@@ -77,5 +77,9 @@ My contributions include:
 
 ---
 
+This project reflects my growing interest in applying machine learning to healthcare challenges and real-world data problems
+
+---
+
 ## Author
 Emmanuel 
